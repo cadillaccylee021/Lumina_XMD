@@ -57,7 +57,7 @@
  ## Deployment Methods
 
  <p align="center">
-  <img src="https://files.catbox.moe/1fn0ou.png" height="300" alt="lumina-xmd Logo" />
+  <img src="https://files.catbox.moe/suk7ag.jpg" height="300" alt="lumina-xmd Logo" />
 </p>
 
 ### 1. FORK THE QUEEN'S REPO 👸❤️🧸
