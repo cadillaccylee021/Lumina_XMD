@@ -1,7 +1,7 @@
 # 𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧
 
 <p align="center">
-  <img src="https://files.catbox.moe/e71nan.png" height="300" alt="lumina-xmd Logo" />
+  <img src="https://files.catbox.moe/u3b56o.jpg" height="300" alt="lumina-xmd Logo" />
 </p>
 
 <p align="center">
