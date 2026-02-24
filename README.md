@@ -1,4 +1,4 @@
-# 𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧
+# 𝗟𝗨𝗠𝗜𝗡𝗔_𝗫𝗠𝗗
 
 <p align="center">
   <img src="https://files.catbox.moe/1fn0ou.png" height="300" alt="lumina-xmd Logo" />
