@@ -45,13 +45,9 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
+---
 
-
-
-
-
-## ```Connect With Me```<img src="https://files.catbox.moe/59vou2.jpg" width ="80"></h1> 
-<br>
+## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
