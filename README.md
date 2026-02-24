@@ -49,8 +49,8 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/27751014718"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VbCPLfv17Emn74cHz60k"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
 <img alt="Development" width="250" src="https://files.catbox.moe/1m2e94.jpg" /> </p> 
 
@@ -136,12 +136,12 @@
 
 ## SUPPORT ME. 👾🖤
 
-SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VbCPLfv17Emn74cHz60k)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 👸❤️🧸](https://github.com/errrbodyhatescylee)
+### Please Give One Star ✨ & [follow me notify my updates 👑❤️🧸](https://github.com/cadillaccylee021)
 <b>Version -> 1.0.0</b>
 
-<a><img src='https://files.catbox.moe/zz41z0.png'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/1m2e94.jpg'/></a><a><img src='https://files.catbox.moe/suk7ag.jpg'/></a>
   
   ## ENJOY!!!;
